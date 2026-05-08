@@ -1,1 +1,1 @@
-# modelagem-banco-de-dados
+# Atividades da unidade curricular "Implantação de Banco de Dados"
